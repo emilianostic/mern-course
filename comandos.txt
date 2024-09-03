@@ -1,0 +1,4 @@
+npm i y
+npm i express express-fileupload mongoose dotenv fs-extra http-errors morgan
+
+npm i clodudinary: sube imagenes
